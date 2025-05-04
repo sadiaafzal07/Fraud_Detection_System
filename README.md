@@ -4,6 +4,7 @@ Fraud Detection System using Logistic Regression
 This project demonstrates how to build a fraud detection system using machine learning with the Logistic Regression algorithm. It uses the popular credit card fraud dataset and handles class imbalance using SMOTE (Synthetic Minority Over-sampling Technique).
 
 **Dataset**
+
 The dataset used is creditcard.csv, which includes transactions labeled as:
 
 0: Legitimate
@@ -13,6 +14,7 @@ The dataset used is creditcard.csv, which includes transactions labeled as:
 Make sure the dataset is placed in the same directory as the notebook or script.
 
 **Tools & Libraries Used**
+
 Python
 
 Pandas & NumPy
@@ -22,6 +24,7 @@ Scikit-learn
 imbalanced-learn (for SMOTE)
 
 **How It Works**
+
 Data Preprocessing:
 
 Scales the Amount feature.
